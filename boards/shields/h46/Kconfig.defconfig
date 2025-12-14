@@ -1,0 +1,9 @@
+# Copyright (c) 2025
+# SPDX-License-Identifier: MIT
+
+if SHIELD_H46
+
+config ZMK_KEYBOARD_NAME
+    default "H46"
+
+endif
